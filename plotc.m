@@ -1,7 +1,3 @@
-%%% PA06
-% John Tyler Maar 399884
-% Robert Lauff 390593
-% Daniel Zastrau 391378
 
 function plotc(x,y,v,marker)
 %FUNCTION PLOTC(X,Y,V,'MARKER') plots the values of v colour coded
