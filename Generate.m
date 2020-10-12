@@ -1,7 +1,3 @@
-% John Tyler Maar 399884
-% Robert Lauff 390593
-% Daniel Zastrau 391378
-
 function [A,b] = Generate(g, a, w, T_U, x_m, y_m, h)
 
 n_x= round(x_m / h);
