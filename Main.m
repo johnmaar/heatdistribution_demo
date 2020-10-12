@@ -1,7 +1,3 @@
-% John Tyler Maar 399884
-% Robert Lauff 390593
-% Daniel Zastrau 391378
-
 clear all;
 close all;
 
